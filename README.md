@@ -1,4 +1,4 @@
 # RL_Swing_Mindstorm_EV3
 
-* Soft Actor Critic
+* EV3 lego mindstorm Swining robot with Reinforcement Learning : Soft Actor Critic
 
